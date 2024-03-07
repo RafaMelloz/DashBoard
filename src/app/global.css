@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    font-size: 62.5%;
+}
+
+body{
+    padding: 2rem;
+    background-color:#181C28;
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    font-family: "Anta", sans-serif;
+}
+
+.container{
+    height: 100%;
+    max-width: 128rem;
+    margin: 0 auto;
+
+    display: flex;
+}
